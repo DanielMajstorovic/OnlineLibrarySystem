@@ -1,0 +1,10 @@
+Feb 09, 2025 10:01:28 PM org.unibl.etf.mdp.gui.MulticastPanel initMulticastSocket
+INFO: Multicast socket pokrenut na adresi 224.0.0.5 i portu 12345
+Feb 09, 2025 10:01:28 PM org.unibl.etf.mdp.gui.MembersPanel lambda$6
+SEVERE: Greška prilikom konekcije na server: Connection refused: connect
+Feb 09, 2025 10:01:28 PM org.unibl.etf.mdp.gui.BooksPanel lambda$5
+SEVERE: Greška prilikom konekcije na server: Connection refused: connect
+Feb 09, 2025 10:01:36 PM org.unibl.etf.mdp.gui.SuppliersPanel loadSuppliersFromServer
+WARNING: Greska: Connection refused: connect
+Feb 09, 2025 10:01:41 PM org.unibl.etf.mdp.gui.MembersPanel lambda$6
+SEVERE: Greška prilikom konekcije na server: Connection refused: connect
